@@ -1,3 +1,3 @@
-# Are the Chemists at it again?
+# Are the chemists at it again?
 
 If you have to ask, you probably already know the answer...
