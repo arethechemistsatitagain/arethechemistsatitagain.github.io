@@ -5,7 +5,7 @@
 
 /* Base font size for the whole site */
 html {
-    font-size: clamp(12px, 1vw + 10px, 16px);
+    font-size: clamp(14px, 1vw + 10px, 18px);
 }
 
 body {
